@@ -1,2 +1,2 @@
 # 360OPS
-Aplly for OPS.
+Apply for OPS.
